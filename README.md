@@ -1,7 +1,7 @@
-<!-- <div align="center">
+<div align="center">
   <img src="Data Analyst Banner Profile.png" alt="Fitho Gerardo Banner" width="100%" />
 </div>
-<br> -->
+<br>
 
 ## Hello there! 👋 I am Gerardo
 
@@ -30,7 +30,7 @@ Data analyst with strong skills in Excel, Google Sheets, SQL, and Python, with p
 </p>
 
 ## Projects
-### 🛒 **[Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026](https://github.com/FithoGerardo/Urban-Mobility-in-LATAM-Cities/tree/main)**
+### 🛒 **[Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026](https://fithogerardo.github.io/Urban-Mobility-in-LATAM-Cities/)**
 
 To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
 
@@ -39,7 +39,7 @@ To identify which cities to invest in transportation infrastructure in order to 
 * *Techniques*: Data manipulation and analysis using Python (Pandas, NumPy, Matplotlib, Seaborn), SQL queries, and descriptive statistics; process documentation in Jupyter Notebook with visualizations and an executive report.
 * *Result*: It was demonstrated that there is no simple linear correlation between a city’s GDP per capita and its level of vehicular traffic, which made it possible to rethink investment criteria toward variables more relevant for public decision-making.
 
-### 🔍 **[E-commerce Funnel Retention Analysis With SQL | Triple Ten 2026](https://github.com/FithoGerardo/E-commerce-Funnel-Retention-Analysis-With-SQL/tree/main)**
+### 🔍 **[E-commerce Funnel Retention Analysis With SQL | Triple Ten 2026](https://fithogerardo.github.io/E-commerce-Funnel-Retention-Analysis-With-SQL/)**
 
 This project focuses on analyzing the full user funnel and retention performance using SQL.
 
