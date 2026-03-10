@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
   <img src="Data Analyst Banner Profile.png" alt="Fitho Gerardo Banner" width="100%" />
 </div>
-<br>
+<br> -->
 
 ## Hello there! 👋 I am Gerardo
 
