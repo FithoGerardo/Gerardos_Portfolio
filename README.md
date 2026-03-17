@@ -30,7 +30,20 @@ Data analyst with strong skills in Excel, Google Sheets, SQL, and Python, with p
 </p>
 
 ## Projects
-### 🛒 **[Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026](https://fithogerardo.github.io/Urban-Mobility-in-LATAM-Cities/)**
+### **[ConnectaTel – Customer Usage Analysis | Triple Ten 2026](https://fithogerardo.github.io/Analysis-of-a-telecommunications-company/)**
+
+This project focuses on understanding how customers actually use mobile services (calls and messages) in order to detect usage patterns, identify atypical behaviors, and generate actionable customer segments for a telecommunications company.
+
+* *Objective*: To analyze mobile service usage in order to identify behavioral patterns, detect anomalous activity, and segment customers based on their communication habits to support better commercial decision-making.
+
+* *Data*: Three integrated datasets containing mobile plans, user profiles (age, city, registration date, plan), and detailed activity logs for calls and SMS. Data preparation included handling missing values, correcting invalid entries (e.g., age = -999), imputing missing locations, and validating date consistency.
+
+* *Techniques*: Data cleaning, exploratory data analysis, and customer segmentation using Python (Pandas, NumPy, Matplotlib, Seaborn). Outlier detection using boxplots and the IQR method, descriptive statistics, and behavioral segmentation based on usage intensity (calls and messages).
+
+* *Result*: The analysis identified distinct customer usage segments and highlighted behavioral differences across plans and age groups. Outlier patterns in messaging and usage intensity suggested potential atypical behavior or data anomalies, providing insights for optimizing mobile plan design and improving ConnectaTel’s targeting strategy.
+
+
+### **[Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026](https://fithogerardo.github.io/Urban-Mobility-in-LATAM-Cities/)**
 
 To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
 
@@ -39,7 +52,7 @@ To identify which cities to invest in transportation infrastructure in order to 
 * *Techniques*: Data manipulation and analysis using Python (Pandas, NumPy, Matplotlib, Seaborn), SQL queries, and descriptive statistics; process documentation in Jupyter Notebook with visualizations and an executive report.
 * *Result*: It was demonstrated that there is no simple linear correlation between a city’s GDP per capita and its level of vehicular traffic, which made it possible to rethink investment criteria toward variables more relevant for public decision-making.
 
-### 🔍 **[E-commerce Funnel Retention Analysis With SQL | Triple Ten 2026](https://fithogerardo.github.io/E-commerce-Funnel-Retention-Analysis-With-SQL/)**
+### **[E-commerce Funnel Retention Analysis With SQL | Triple Ten 2026](https://fithogerardo.github.io/E-commerce-Funnel-Retention-Analysis-With-SQL/)**
 
 This project focuses on analyzing the full user funnel and retention performance using SQL.
 
